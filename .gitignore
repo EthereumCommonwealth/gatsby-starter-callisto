@@ -58,6 +58,6 @@ typings/
 .env
 
 .DS_Store
-.chache/
+.cache/
 public/
 yarn.lock
