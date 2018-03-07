@@ -2,6 +2,10 @@
 
 ## Run on development environment
 
+### To Use this starter just do:
+
+`gatsby new [SITE_DIRECTORY] git@github.com:EthereumCommonwealth/gatsby-starter-callisto.git`
+
 ### Install dependencies
 
 `yarn install` or `npm i`
