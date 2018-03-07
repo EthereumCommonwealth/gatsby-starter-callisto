@@ -1,20 +1,25 @@
 # gatsby-starter-callisto 🤖
 
-Run on development environment
-Install dependencies
-yarn install or npm i
+## Run on development environment
 
-Install Gatsby Client
-npm install --global gatsby-cli
+### Install dependencies
 
-Run Development Env
-gatsby develop
+`yarn install` or `npm i`
 
-Create a production build
-gatsby build
+### Install Gatsby Client
 
-Deploy
-npm run deploy-gh
+`npm install --global gatsby-cli`
 
-Build and Deploy
-npm run deploy
+### Run Development Env
+
+`gatsby develop`
+
+### Create a production build
+
+`gatsby build`
+
+### Deploy
+`npm run deploy-gh`
+
+### Build and Deploy
+`npm run deploy`
